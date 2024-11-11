@@ -1,0 +1,5 @@
+app:
+  redirects:
+    from: /*
+  to: /vika_site.html
+assets: false
